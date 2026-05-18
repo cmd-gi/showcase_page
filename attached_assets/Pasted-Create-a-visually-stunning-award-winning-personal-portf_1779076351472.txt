@@ -1,0 +1,404 @@
+Create a visually stunning, award-winning personal portfolio website for me, "Charan", to showcase my AI-generated works, cinematic videos, photography, and web development projects. The website must feel like a premium digital experience inspired by Awwwards-winning sites, Apple product pages, and top creative agencies. The design should be bold, immersive, futuristic, and highly interactive with smooth animations, non-generic layouts, and a strong visual identity using orange, white, and deep black tones.
+
+# Core Objective
+
+Build a world-class personal portfolio website that:
+
+* Introduces me and my creative journey.
+* Showcases my best work in three main categories: Videos, Photos, and Webpages.
+* Creates a memorable visual experience with cinematic motion and interactive storytelling.
+* Reflects my expertise in AI art, video editing, web development, and creative technology.
+* Works flawlessly on desktop, tablet, and mobile devices.
+
+# Overall Visual Style
+
+* Premium, cinematic, futuristic, and minimal.
+* Dark mode as the primary theme.
+* Bold orange highlights with white typography.
+* Editorial-style layouts with asymmetrical sections.
+* Glassmorphism panels and soft glowing accents.
+* Large typography with strong hierarchy.
+* Dynamic scroll-based storytelling.
+* Smooth transitions and micro-interactions.
+
+# Color Palette
+
+Primary Colors:
+
+* Pure Black: #0A0A0A
+* Deep Charcoal: #111111
+* Dark Gray: #1A1A1A
+* Pure White: #FFFFFF
+* Vibrant Orange: #FF6A00
+* Warm Orange: #FF8C1A
+* Soft Peach: #FFD7B3
+
+Accent Effects:
+
+* Orange glow shadows behind buttons and cards.
+* Subtle blurred gradient orbs.
+* White-to-orange gradient highlights.
+
+Background Treatments:
+
+* Animated grain texture.
+* Floating orange light particles.
+* Soft radial gradients.
+
+# Typography
+
+Headings:
+
+* Space Grotesk, Clash Display, or Satoshi.
+* Bold and oversized with tight letter spacing.
+
+Body:
+
+* Inter or Manrope.
+* Clean and highly readable.
+
+Text Effects:
+
+* Character-by-character reveal animations.
+* Gradient-highlighted keywords.
+* Masked scrolling text transitions.
+
+# Navigation
+
+Sticky top navigation with:
+
+* Logo or monogram.
+* About
+* Work
+* Contact
+* Theme toggle (optional)
+
+Features:
+
+* Transparent glass background.
+* Blur effect on scroll.
+* Active section highlighting.
+* Smooth scrolling to sections.
+
+# Website Structure
+
+## 1. Hero / Introduction Section
+
+Create a full-screen cinematic landing section that introduces me.
+
+### Content
+
+* Greeting text: "Hello, I'm Charan."
+* Main headline:
+  "I Create AI-Powered Visual Experiences."
+* Dynamic subtitle:
+  "AI Artist • Video Editor • Web Developer • Creative Technologist"
+* Personal introduction paragraph describing my passion for combining artificial intelligence, storytelling, design, and code.
+* Profile image or stylized portrait.
+* CTA buttons:
+
+  * Explore My Work
+  * Get In Touch
+
+### Layout
+
+* Split-screen layout with text on one side and portrait or animated visual on the other.
+* Parallax background with glowing orange elements.
+* Floating particles and subtle motion.
+
+### Animations
+
+* Text reveal on page load.
+* Magnetic CTA buttons.
+* Profile image tilt effect.
+* Scroll indicator animation.
+
+---
+
+## 2. About Me Section (Optional but Recommended)
+
+A short section expanding on my creative identity.
+
+### Content
+
+* My journey and skills.
+* Tools I use.
+* Creative philosophy.
+* Expertise badges.
+
+### Skills
+
+* AI Image Generation
+* Prompt Engineering
+* Cinematic Video Editing
+* Motion Graphics
+* Web Development
+* UI/UX Design
+
+---
+
+## 3. My Works Section
+
+The core portfolio section displaying my creative projects.
+
+### Section Header
+
+* Large title: "Selected Works"
+* Subtitle describing the portfolio categories.
+
+### Category Tabs
+
+* Videos
+* Photos
+* Webpages
+
+Tabs should animate smoothly with glowing orange indicators.
+
+---
+
+## 3A. Videos Category
+
+Showcase:
+
+* Cinematic edits
+* AI-generated videos
+* Promotional videos
+* Motion graphics
+* Showreels
+
+### Card Design
+
+Each project card includes:
+
+* Thumbnail or autoplay preview
+* Project title
+* Short description
+* Tools used
+* Duration
+* Tags
+
+### Interactions
+
+* Video autoplay on hover
+* Scale and glow effect
+* Fullscreen modal with detailed information
+
+### Layout
+
+* Bento grid with varied card sizes
+* Featured projects spanning multiple columns
+
+---
+
+## 3B. Photos Category
+
+Showcase:
+
+* AI-generated artwork
+* Posters
+* Photo manipulations
+* Portrait retouching
+* Creative edits
+
+### Layout
+
+* Masonry gallery
+* Dynamic image sizes
+* Balanced whitespace
+
+### Interactions
+
+* Hover overlay with project details
+* Lightbox with zoom
+* Navigation between images
+
+### Optional Metadata
+
+* Prompt used
+* Tools
+* Resolution
+* Style tags
+
+---
+
+## 3C. Webpages Category
+
+Showcase:
+
+* Portfolio websites
+* Landing pages
+* Dashboard interfaces
+* UI/UX concepts
+* Full-stack projects
+
+### Card Design
+
+* Desktop and mobile mockups
+* Project title and description
+* Technology stack
+* Live preview and source buttons
+
+### Interactions
+
+* Tilt effect
+* Hover animation
+* Modal with screenshots and details
+
+---
+
+## 4. Prompt Library (Optional Advanced Section)
+
+Display prompts used for AI-generated projects.
+
+### Features
+
+* Prompt text with syntax styling
+* Copy button
+* Search by keyword
+* Filter by style and tool
+
+---
+
+## 5. Contact Call-to-Action
+
+A bold section encouraging collaboration.
+
+### Content
+
+* Headline:
+  "Let's Build Something Extraordinary."
+* Short message inviting inquiries and collaborations.
+* Buttons:
+
+  * Email Me
+  * Connect on Social Media
+
+### Design
+
+* Large centered typography.
+* Glowing orange accents.
+* Subtle animated background.
+
+---
+
+## 6. Footer
+
+A minimal yet premium footer.
+
+### Content
+
+* Logo or name.
+* Short tagline.
+* Email address.
+* Social media links:
+
+  * Instagram
+  * GitHub
+  * LinkedIn
+  * YouTube
+* Back-to-top button.
+* Copyright notice.
+
+### Design
+
+* Dark background.
+* Thin gradient separator line.
+* Elegant spacing and subtle glow.
+
+# Animation & Interaction Requirements
+
+* GSAP or Framer Motion.
+* Scroll-triggered reveals.
+* Staggered card animations.
+* Hover glow and depth.
+* Parallax effects.
+* Cursor-following light effect.
+* Smooth scrolling.
+* Section transitions.
+
+# Responsive Design
+
+Desktop:
+
+* Full cinematic experience with large layouts.
+
+Tablet:
+
+* Reorganized grids with preserved visual hierarchy.
+
+Mobile:
+
+* Optimized stacked layouts.
+* Touch-friendly interactions.
+* Maintained premium look.
+
+# Performance Requirements
+
+* Lazy-load images and videos.
+* Optimized media formats.
+* Fast page rendering.
+* Smooth 60 FPS animations.
+* SEO-friendly structure.
+
+# Accessibility
+
+* Keyboard navigation.
+* Semantic HTML.
+* High contrast.
+* ARIA labels where needed.
+
+# Tech Stack
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Framer Motion or GSAP
+* Lightbox for galleries
+
+# Optional Admin Dashboard
+
+Create a secure admin panel to:
+
+* Upload images and videos.
+* Add titles and descriptions.
+* Organize by category.
+* Edit project details.
+* Manage prompts and tags.
+
+# Content Management Structure
+
+Each project should support:
+
+* Title
+* Description
+* Category
+* Thumbnail
+* Media files
+* Tools used
+* Tags
+* Prompt text
+* External links
+
+# Desired Emotional Impact
+
+Visitors should feel:
+
+* Inspired
+* Curious
+* Impressed
+* Confident in my creative and technical abilities
+
+# Final Deliverable
+
+Generate a complete production-ready website with:
+
+* Cinematic full-screen introduction
+* Premium portfolio section with Videos, Photos, and Webpages
+* Smooth animations and interactions
+* Fully responsive design
+* Contact section
+* Elegant footer
+* High-performance architecture
+
+The final website must look like a top-tier Awwwards-winning portfolio—bold, unforgettable, immersive, and uniquely crafted to represent my creative identity.
